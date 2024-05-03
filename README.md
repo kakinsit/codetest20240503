@@ -1,5 +1,5 @@
 # Coding Test Answer
-Here is a Jupyter Notebook stored coding test answer by Ken Sit.
+Here is the coding test answer in Jupyter Notebook by Ken Sit.
 
 ## Installation
 ```bash
